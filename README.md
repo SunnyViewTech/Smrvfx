@@ -1,4 +1,16 @@
-Smrvfx
+Smrvfx with Dollars MoCap
+------
+
+
+https://user-images.githubusercontent.com/123790383/233242717-729d7d8f-83bc-400c-a1a7-e21eff6756ec.mp4
+
+
+Usage
+-------------------
+1. Open Dollars MoCap
+2. Enable Unity Streaming
+
+Original README
 ------
 
 ![gif](https://i.imgur.com/HWwnljE.gif)
