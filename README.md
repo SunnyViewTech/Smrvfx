@@ -2,7 +2,9 @@ Smrvfx with Dollars MoCap
 ------
 
 
-https://user-images.githubusercontent.com/123790383/233242717-729d7d8f-83bc-400c-a1a7-e21eff6756ec.mp4
+
+https://github.com/SunnyViewTech/Smrvfx/assets/123790383/3fb2fca7-d646-473f-a17f-2425c00d3296
+
 
 
 Usage
